@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AppsCell.h
 //  SeverTest
 //
 //  Created by yunpengzhang on 16/8/20.
@@ -7,9 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UITableViewController
-
-
+#import "AppsModel.h"
+@interface AppsCell : UITableViewCell
+@property (strong, nonatomic) AppsModel *app;
 @end
-
