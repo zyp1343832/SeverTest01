@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CC836B79F2596DAA79AF42912870CDE2580FAE3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC836B79F2596DAA79AF42912870CDE2580FAE3D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "87A8E67C-BE54-45F7-A1CC-4D58479457B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC836B79F2596DAA79AF42912870CDE2580FAE3D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SeverTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SeverTest\/SeverTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zyp1343832\/SeverTest01",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC836B79F2596DAA79AF42912870CDE2580FAE3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zyp1343832\/SeverTest01.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC836B79F2596DAA79AF42912870CDE2580FAE3D"
+    }
+  ]
+}
